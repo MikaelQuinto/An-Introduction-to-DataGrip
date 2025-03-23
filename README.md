@@ -42,4 +42,11 @@ PostgreSQL is a powerful, open-source relational database management system know
 - In the Installation Directory screen, simply click "Next."
 - In the Select Components screen, only PostgreSQL Server and Command Line Tools are needed—select these and proceed.
 - ![image](https://github.com/user-attachments/assets/85bf3d7b-af5e-4f57-bcb7-f1422ea555d6)
+- In the Data Directory screen, click "Next."
+- Now, in the Password section—this part is **very important**. Enter a password that **you will remember**, as we will need it frequently to access the database. If you're unsure, **write it down somewhere safe** or use another method to store it securely.
+- In the Port section, leave it as 5432 and click "Next" to proceed.
+- In the Advanced Options section, leave everything as it is and click "Next," just like in the Pre-Installation Summary screen.
+- Once the installation is complete, click "Finish," and that's it! 😊
 
+# DataGrip Custom 🎨 (OPTIONAL)
+### Description: This is a small optional section of the guide that you can skip. It focuses on customization to make your experience with DataGrip more pleasant and user-friendly.
