@@ -41,3 +41,5 @@ PostgreSQL is a powerful, open-source relational database management system know
 - Now, a setup window will appear. Click "Next." This setup process is a bit more complex than the previous one, so pay close attention.
 - In the Installation Directory screen, simply click "Next."
 - In the Select Components screen, only PostgreSQL Server and Command Line Tools are needed—select these and proceed.
+- ![image](https://github.com/user-attachments/assets/85bf3d7b-af5e-4f57-bcb7-f1422ea555d6)
+
