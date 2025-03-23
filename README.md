@@ -30,3 +30,14 @@ PostgreSQL is a powerful, open-source relational database management system know
 
 ## STEP 1 - Download 💾
 - The first step is to go to the following link [PostgreSQL](https://www.postgresql.org/download/). Once there, click on the option that matches your operating system.
+-![image](https://github.com/user-attachments/assets/286141b0-d464-4708-bfd5-b5b38c896ab3)
+- Next, click on "Download the installer." If you're unsure where it is, refer to the arrow in the following image.
+- ![image](https://github.com/user-attachments/assets/46f27a71-c9c1-43b6-9e53-0d7b46fd264d)
+- Then, click on the version 17.4 that matches your operating system, whether it's Windows or macOS.
+- ![image](https://github.com/user-attachments/assets/86921748-0eb9-4b4e-aaa7-f7cb8ab60605)
+- Next, the file will start downloading. Once it's finished, open it. Note: Registration on EDB is not required.
+
+## ⚙️STEP 2 - Installation 🛠️ 
+- Now, a setup window will appear. Click "Next." This setup process is a bit more complex than the previous one, so pay close attention.
+- In the Installation Directory screen, simply click "Next."
+- In the Select Components screen, only PostgreSQL Server and Command Line Tools are needed—select these and proceed.
