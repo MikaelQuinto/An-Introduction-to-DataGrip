@@ -1,5 +1,5 @@
 # An-Introduction-to-DataGrip
-**Important Tip:** Before opening any links (blue text), we highly recommend right-clicking on them and selecting "Open link in new tab" to ensure the guide remains open.
+**Important Tip:** Before opening any links (blue text), we highly recommend right-clicking on them and selecting **"Open link in new tab"** to ensure the guide remains open.
 
 # DataGrip Installation Guide 🛢️
 ### What is PostgreSQL?
