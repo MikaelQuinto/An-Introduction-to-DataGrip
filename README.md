@@ -1,7 +1,7 @@
 # An-Introduction-to-DataGrip
 DataGrip is a powerful database IDE developed by JetBrains, designed for database developers and administrators. It supports multiple database management systems
 
-# DataGrip Installation Guide
+# DataGrip Installation Guide 🛢️
 ## ✨ STEP 1 - Download 💾
 - The first step is to go to the following link [JetBrains DataGrip](https://www.jetbrains.com/datagrip/) , which will redirect you to JetBrains' official website, where you can download DataGrip. Accept the cookies and proceed with the download
 - Next, choose the appropriate download option based on your operating system (Windows, macOS, or Linux) and click "Download."
@@ -21,9 +21,8 @@ DataGrip is a powerful database IDE developed by JetBrains, designed for databas
 - This will redirect you to Google or your default web browser. Important: Click on "Log in with Google" and use the account associated with your purchased license. Once logged in, you're all set! Just return to the app/IDE.
 - Back in the app/IDE, click "Activate", and you're all set! Now, we can move on to the next part of the guide.
 
-
-
-
+# PostgreSQL Installation Guide  🐘
+### **What is PostgreSQL?**  PostgreSQL is a powerful, open-source relational database management system known for its reliability, extensibility, and compliance with SQL standards.
 
 
 
