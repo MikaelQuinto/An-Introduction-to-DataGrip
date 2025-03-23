@@ -7,3 +7,5 @@ DataGrip is a powerful database IDE developed by JetBrains, designed for databas
 ![image](https://github.com/user-attachments/assets/8ccdd232-e62e-48c6-ad6c-1291656ae0d2)
 
 # STEP 2
+- After opening the downloaded file, the setup menu will appear. Click "Next", and when the Install Location screen appears, simply click "Next" again to proceed with the default folder.
+- In the Installation Options screen, check the recommended options if preferred, although you can proceed without selecting any.
