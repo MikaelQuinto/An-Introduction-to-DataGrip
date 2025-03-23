@@ -49,4 +49,18 @@ PostgreSQL is a powerful, open-source relational database management system know
 - Once the installation is complete, click "Finish," and that's it! 😊
 
 # DataGrip Custom 🎨 (OPTIONAL)
-### Description: This is a small optional section of the guide that you can skip. It focuses on customization to make your experience with DataGrip more pleasant and user-friendly.
+### Description
+This is a small optional section of the guide that you can skip. It focuses on customization to make your experience with DataGrip more pleasant and user-friendly.
+
+## Customize
+- Theme: If you're like me and find bright screens a bit overwhelming, you can switch to Dark Mode, which is especially helpful for reducing eye strain at night.
+- IDE Font: If you need larger text for better visibility when working with data or writing code, you can adjust the font size here.
+- Region: You can set the region to Americas in the Region option, though this isn’t crucial. Keep in mind that changing this setting requires a restart.
+
+# Plugins
+To search for plugins, go to the search bar and type the names of the plugins you want to find.
+
+- A must-have plugin is Atom Material Icons, which replaces file icons with their relevant logos, making navigation more intuitive.
+- If you want more theme options, I highly recommend Material Theme UI, which offers a variety of stylish and customizable themes.
+
+
