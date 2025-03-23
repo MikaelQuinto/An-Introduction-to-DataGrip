@@ -22,8 +22,8 @@ DataGrip is a powerful database IDE developed by JetBrains, designed for databas
 - Back in the app/IDE, click "Activate", and you're all set! Now, we can move on to the next part of the guide.
 
 # PostgreSQL Installation Guide  🐘
-### **What is PostgreSQL?**  PostgreSQL is a powerful, open-source relational database management system known for its reliability, extensibility, and compliance with SQL standards.
+### What is PostgreSQL?
+PostgreSQL is a powerful, open-source relational database management system known for its reliability, extensibility, and compliance with SQL standards.
 
-
-
-
+## STEP 1 - Download 💾
+- The first step is to go to the following link [PostgreSQL](https://www.postgresql.org/download/). Once there, click on the option that matches your operating system.
