@@ -57,10 +57,13 @@ This is a small optional section of the guide that you can skip. It focuses on c
 - IDE Font: If you need larger text for better visibility when working with data or writing code, you can adjust the font size here.
 - Region: You can set the region to Americas in the Region option, though this isn’t crucial. Keep in mind that changing this setting requires a restart.
 
-# Plugins
+## Plugins
 To search for plugins, go to the search bar and type the names of the plugins you want to find.
 
 - A must-have plugin is Atom Material Icons, which replaces file icons with their relevant logos, making navigation more intuitive.
 - If you want more theme options, I highly recommend Material Theme UI, which offers a variety of stylish and customizable themes.
 
+# First Steps in DataGrip 🎯
+### Description
+Now, we will proceed with setting up the databases on your computer, allowing you to visualize data, analyze it, and even generate charts. The chart generation part will be covered later in the guide.
 
