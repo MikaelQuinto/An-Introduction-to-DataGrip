@@ -85,7 +85,7 @@ Now, we will proceed with setting up the databases on your computer, allowing yo
 - Right-click on public, select New, and then click on Query Console.
 - Now, we will create the IR Test table. We have separated it into two: R1 for Run 1 and R2 for Run 2.
 - Now, copy and paste this code into the opened query console.
-'''sql
+```sql
 CREATE TABLE ir_test_r1 (
     ratio NUMERIC(20) ,
     funamental INTEGER,
@@ -101,3 +101,5 @@ CREATE TABLE ir_test_r1 (
     test_id INTEGER NOT NULL
 
 );
+```
+- CONTINUE
