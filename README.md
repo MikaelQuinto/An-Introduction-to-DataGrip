@@ -67,3 +67,37 @@ To search for plugins, go to the search bar and type the names of the plugins yo
 ### Description
 Now, we will proceed with setting up the databases on your computer, allowing you to visualize data, analyze it, and even generate charts. The chart generation part will be covered later in the guide.
 
+## STEP 1 - Data BASE 🛢️
+- We open DataGrip again and click on "Create New Project."
+- We will name it "UNM - Database."
+- Click on "Create Data Source", which is located on the left side.
+- ![image](https://github.com/user-attachments/assets/8b41beec-b413-42dd-9745-9d2fa5d5aeb8)
+- Then, select PostgreSQL, which is among the last options.
+- A new window will open, and the first thing you need to do is click on "Download missing drivers", which is indicated at the bottom.
+- Next, go to the User field and enter "postgres".
+- In the Password field, enter the password you created earlier.
+- And that's it! Now, click on "Test Connection" to verify that everything is working correctly. If you encounter an error, double-check the previous steps. If the issue persists, feel free to contact me for help. 😊
+- ![image](https://github.com/user-attachments/assets/8d6468c3-924c-425f-8039-7062637d5190)
+- Click "OK", and you're all set! 🎉
+
+## STEP 2 - Tables 📊
+- Now, double-click to open @localhost → postgres → public.
+- Right-click on public, select New, and then click on Query Console.
+- Now, we will create the IR Test table. We have separated it into two: R1 for Run 1 and R2 for Run 2.
+- Now, copy and paste this code into the opened query console.
+'''sql
+CREATE TABLE ir_test_r1 (
+    ratio NUMERIC(20) ,
+    funamental INTEGER,
+    harmonic INTEGER,
+    wave_leght VARCHAR NOT NULL,
+    boxid VARCHAR NOT NULL,
+    location VARCHAR NOT NULL,
+    time_stamp VARCHAR NOT NULL,
+    counter_id VARCHAR NOT NULL,
+    es_ver VARCHAR NOT NULL,
+    dp_ver VARCHAR NOT NULL,
+    database_match VARCHAR NOT NULL,
+    test_id INTEGER NOT NULL
+
+);
